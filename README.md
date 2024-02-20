@@ -1,0 +1,1 @@
+This repo explain how DDPM and Stable Diffusion work
