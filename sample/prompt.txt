@@ -1,0 +1,2 @@
+Prompt: A realistic image of a young American girl, 21 years old, smooth skin, rosy cheeks, red lip,  long curly blone hair, earrings,  with wireless headphone enjoy listenning to music. She is wearing a croptop with a shirt outside. Studio background, studio neon backlight, smooth skin, realistic, best quality,  masterpiece, Perfected, detailed hair, ,neon photography style
+Negative Prompt: EasyNegative, worst quality, bad quality, bad hand, bad teeth, bad eyes, bad lip,bad nose, wire, bad face, bad details, monotone background
